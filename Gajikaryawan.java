@@ -7,7 +7,11 @@ import java.util.Scanner;
 
 /**
  *
- * @author User
+ * @author
+ * Nama : Bintang Fajar Nusantara
+ * Nim : 22205028
+ * Prodi : Teknik Informatika/22
+ * Deskripsi : Program ini berisi tentang menghitung gaji karyawan sesuai jabatan. 
  */
 public class Gajikaryawan {
 
